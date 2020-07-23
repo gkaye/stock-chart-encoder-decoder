@@ -4,7 +4,4 @@ Demonstration of compressing stock market data using unsupervised learning.  Thi
 ## See the jupyter notebook and results [here](https://gkaye-machine-learning.s3.amazonaws.com/README.html)
 
 ![Input](/example_input_1.PNG)
-
-
-
 ![Input](/example_output_1.PNG)
