@@ -1,0 +1,158 @@
+{
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.6,<3.7.0a0",
+    "pywinpty",
+    "tornado >=4"
+  ],
+  "extracted_package_dir": "C:\\Users\\gUnit\\.conda\\pkgs\\terminado-0.8.3-py36_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/terminado-0.8.3-py3.6.egg-info",
+    "Lib/site-packages/terminado/__init__.py",
+    "Lib/site-packages/terminado/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/terminado/__pycache__/management.cpython-36.pyc",
+    "Lib/site-packages/terminado/__pycache__/uimodule.cpython-36.pyc",
+    "Lib/site-packages/terminado/__pycache__/websocket.cpython-36.pyc",
+    "Lib/site-packages/terminado/_static/terminado.js",
+    "Lib/site-packages/terminado/management.py",
+    "Lib/site-packages/terminado/tests/__init__.py",
+    "Lib/site-packages/terminado/tests/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/terminado/tests/__pycache__/basic_test.cpython-36.pyc",
+    "Lib/site-packages/terminado/tests/basic_test.py",
+    "Lib/site-packages/terminado/uimod_embed.js",
+    "Lib/site-packages/terminado/uimodule.py",
+    "Lib/site-packages/terminado/websocket.py"
+  ],
+  "fn": "terminado-0.8.3-py36_0.conda",
+  "legacy_bz2_md5": "ffcdbc7d7aaf330fe68b06acdf57239b",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "C:\\Users\\gUnit\\.conda\\pkgs\\terminado-0.8.3-py36_0",
+    "type": 1
+  },
+  "md5": "18fab2b8926f430bbabe4f9598a2534e",
+  "name": "terminado",
+  "package_tarball_full_path": "C:\\Users\\gUnit\\.conda\\pkgs\\terminado-0.8.3-py36_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/terminado-0.8.3-py3.6.egg-info",
+        "path_type": "hardlink",
+        "sha256": "8e84d7e2c0748149ef934af4265d1fe9c72247c0cf876c3010965b06106895f1",
+        "sha256_in_prefix": "8e84d7e2c0748149ef934af4265d1fe9c72247c0cf876c3010965b06106895f1",
+        "size_in_bytes": 302
+      },
+      {
+        "_path": "Lib/site-packages/terminado/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "959f52ad02dc3ae2718363ebb7652ca3d5afeae7d45593148eb4c97b49832b93",
+        "sha256_in_prefix": "959f52ad02dc3ae2718363ebb7652ca3d5afeae7d45593148eb4c97b49832b93",
+        "size_in_bytes": 544
+      },
+      {
+        "_path": "Lib/site-packages/terminado/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "6abc7afd3ca625d4c884987cd5272ae195a4ffa36eac9202c9808f0d7cd47ae7",
+        "sha256_in_prefix": "6abc7afd3ca625d4c884987cd5272ae195a4ffa36eac9202c9808f0d7cd47ae7",
+        "size_in_bytes": 487
+      },
+      {
+        "_path": "Lib/site-packages/terminado/__pycache__/management.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "4f68eb15c9a6a8030fef928c3d80727ac4ee4aaaa904b0dc6ef3f8dd7e51c0a8",
+        "sha256_in_prefix": "4f68eb15c9a6a8030fef928c3d80727ac4ee4aaaa904b0dc6ef3f8dd7e51c0a8",
+        "size_in_bytes": 11771
+      },
+      {
+        "_path": "Lib/site-packages/terminado/__pycache__/uimodule.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "e585cf2656422a1c92242d0270ccecc79963e94a8231c295a20d38d29d394841",
+        "sha256_in_prefix": "e585cf2656422a1c92242d0270ccecc79963e94a8231c295a20d38d29d394841",
+        "size_in_bytes": 1269
+      },
+      {
+        "_path": "Lib/site-packages/terminado/__pycache__/websocket.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "29a9f56e75e2f54cad9389a16b0381f0227c3e75b96c05a2ba48bd88ac3f662b",
+        "sha256_in_prefix": "29a9f56e75e2f54cad9389a16b0381f0227c3e75b96c05a2ba48bd88ac3f662b",
+        "size_in_bytes": 3549
+      },
+      {
+        "_path": "Lib/site-packages/terminado/_static/terminado.js",
+        "path_type": "hardlink",
+        "sha256": "8ed7f7ad9fa878b61ae0c9ea3cc785dedb7aa28be0f3ed1b9a797f947f34b241",
+        "sha256_in_prefix": "8ed7f7ad9fa878b61ae0c9ea3cc785dedb7aa28be0f3ed1b9a797f947f34b241",
+        "size_in_bytes": 1218
+      },
+      {
+        "_path": "Lib/site-packages/terminado/management.py",
+        "path_type": "hardlink",
+        "sha256": "13a14ca4ce04c798ef869ae0de126a6794fe9bd4b8f5ccbd80f91842d1f9cea6",
+        "sha256_in_prefix": "13a14ca4ce04c798ef869ae0de126a6794fe9bd4b8f5ccbd80f91842d1f9cea6",
+        "size_in_bytes": 11972
+      },
+      {
+        "_path": "Lib/site-packages/terminado/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/terminado/tests/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "360c2fad60f944c5c09155a3263ce9227094474a384c156a4745c3b590bf7fbe",
+        "sha256_in_prefix": "360c2fad60f944c5c09155a3263ce9227094474a384c156a4745c3b590bf7fbe",
+        "size_in_bytes": 128
+      },
+      {
+        "_path": "Lib/site-packages/terminado/tests/__pycache__/basic_test.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "75acb344d70573eb6fd26d9fa8c9a57a1de20019ebc641f700c805bcf7d645ed",
+        "sha256_in_prefix": "75acb344d70573eb6fd26d9fa8c9a57a1de20019ebc641f700c805bcf7d645ed",
+        "size_in_bytes": 8960
+      },
+      {
+        "_path": "Lib/site-packages/terminado/tests/basic_test.py",
+        "path_type": "hardlink",
+        "sha256": "57abbd5f8ad404bb1843bc5a5b4cdda7add0661237013114530ad24eec81ff80",
+        "sha256_in_prefix": "57abbd5f8ad404bb1843bc5a5b4cdda7add0661237013114530ad24eec81ff80",
+        "size_in_bytes": 9046
+      },
+      {
+        "_path": "Lib/site-packages/terminado/uimod_embed.js",
+        "path_type": "hardlink",
+        "sha256": "dfc4d44b8a2d42994abcfd517b7d5c6e44723f491dbb2bf8c8e839c8a9f96452",
+        "sha256_in_prefix": "dfc4d44b8a2d42994abcfd517b7d5c6e44723f491dbb2bf8c8e839c8a9f96452",
+        "size_in_bytes": 773
+      },
+      {
+        "_path": "Lib/site-packages/terminado/uimodule.py",
+        "path_type": "hardlink",
+        "sha256": "16d38842ac41bcf0e8c5ec474e3d0a4e206d2a55d38877744fa6b193f40da41e",
+        "sha256_in_prefix": "16d38842ac41bcf0e8c5ec474e3d0a4e206d2a55d38877744fa6b193f40da41e",
+        "size_in_bytes": 1012
+      },
+      {
+        "_path": "Lib/site-packages/terminado/websocket.py",
+        "path_type": "hardlink",
+        "sha256": "ee604a98938befb94d05792fb1d9e77d185a4c2ea00cebfd4fafc517e41c71a8",
+        "sha256_in_prefix": "ee604a98938befb94d05792fb1d9e77d185a4c2ea00cebfd4fafc517e41c71a8",
+        "size_in_bytes": 3501
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "501e257584dfae80b1d0989d9238c39b47ee19b20d599b0d624e3b62b112e9c1",
+  "size": 26496,
+  "subdir": "win-64",
+  "timestamp": 1574271866410,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/terminado-0.8.3-py36_0.conda",
+  "version": "0.8.3"
+}

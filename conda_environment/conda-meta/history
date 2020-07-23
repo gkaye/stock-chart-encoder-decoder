@@ -1,0 +1,340 @@
+==> 2020-06-16 23:35:59 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py create -p C:\ml\projects\conda_environment -y python=3.6
+# conda version: 4.8.3
++defaults/win-64::certifi-2020.4.5.2-py36_0
++defaults/win-64::pip-20.1.1-py36_1
++defaults/win-64::python-3.6.10-h9f7ef89_2
++defaults/win-64::setuptools-47.3.0-py36_0
++defaults/win-64::sqlite-3.31.1-h2a8f88b_1
++defaults/win-64::vc-14.1-h0510ff6_4
++defaults/win-64::vs2015_runtime-14.16.27012-hf0eaf9b_2
++defaults/win-64::wheel-0.34.2-py36_0
++defaults/win-64::wincertstore-0.2-py36h7fe50ca_0
++defaults/win-64::zlib-1.2.11-h62dcd97_4
+# update specs: ['python=3.6']
+==> 2020-06-16 23:39:16 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install jupyter
+# conda version: 4.8.3
++defaults/noarch::attrs-19.3.0-py_0
++defaults/noarch::backcall-0.2.0-py_0
++defaults/noarch::bleach-3.1.5-py_0
++defaults/noarch::colorama-0.4.3-py_0
++defaults/noarch::decorator-4.4.2-py_0
++defaults/noarch::defusedxml-0.6.0-py_0
++defaults/noarch::importlib_metadata-1.6.1-0
++defaults/noarch::ipywidgets-7.5.1-py_0
++defaults/noarch::jinja2-2.11.2-py_0
++defaults/noarch::jupyter_client-6.1.3-py_0
++defaults/noarch::jupyter_console-6.1.0-py_0
++defaults/noarch::nbformat-5.0.7-py_0
++defaults/noarch::packaging-20.4-py_0
++defaults/noarch::parso-0.7.0-py_0
++defaults/noarch::prometheus_client-0.8.0-py_0
++defaults/noarch::prompt-toolkit-3.0.5-py_0
++defaults/noarch::prompt_toolkit-3.0.5-0
++defaults/noarch::pygments-2.6.1-py_0
++defaults/noarch::pyparsing-2.4.7-py_0
++defaults/noarch::python-dateutil-2.8.1-py_0
++defaults/noarch::qtconsole-4.7.4-py_0
++defaults/noarch::qtpy-1.9.0-py_0
++defaults/noarch::six-1.15.0-py_0
++defaults/noarch::testpath-0.4.4-py_0
++defaults/noarch::wcwidth-0.2.4-py_0
++defaults/noarch::zipp-3.1.0-py_0
++defaults/win-64::ca-certificates-2020.1.1-0
++defaults/win-64::entrypoints-0.3-py36_0
++defaults/win-64::icu-58.2-ha925a31_3
++defaults/win-64::importlib-metadata-1.6.1-py36_0
++defaults/win-64::ipykernel-5.3.0-py36h5ca1d4c_0
++defaults/win-64::ipython-7.13.0-py36h5ca1d4c_0
++defaults/win-64::ipython_genutils-0.2.0-py36_0
++defaults/win-64::jedi-0.17.0-py36_0
++defaults/win-64::jpeg-9b-hb83a4c4_2
++defaults/win-64::jsonschema-3.2.0-py36_0
++defaults/win-64::jupyter-1.0.0-py36_7
++defaults/win-64::jupyter_core-4.6.3-py36_0
++defaults/win-64::libpng-1.6.37-h2a8f88b_0
++defaults/win-64::libsodium-1.0.16-h9d3ae62_0
++defaults/win-64::m2w64-gcc-libgfortran-5.3.0-6
++defaults/win-64::m2w64-gcc-libs-5.3.0-7
++defaults/win-64::m2w64-gcc-libs-core-5.3.0-7
++defaults/win-64::m2w64-gmp-6.1.0-2
++defaults/win-64::m2w64-libwinpthread-git-5.0.0.4634.697f757-2
++defaults/win-64::markupsafe-1.1.1-py36he774522_0
++defaults/win-64::mistune-0.8.4-py36he774522_0
++defaults/win-64::msys2-conda-epoch-20160418-1
++defaults/win-64::nbconvert-5.6.1-py36_0
++defaults/win-64::notebook-6.0.3-py36_0
++defaults/win-64::openssl-1.1.1g-he774522_0
++defaults/win-64::pandoc-2.2.3.2-0
++defaults/win-64::pandocfilters-1.4.2-py36_1
++defaults/win-64::pickleshare-0.7.5-py36_0
++defaults/win-64::pyqt-5.9.2-py36h6538335_2
++defaults/win-64::pyrsistent-0.16.0-py36he774522_0
++defaults/win-64::pywin32-227-py36he774522_1
++defaults/win-64::pywinpty-0.5.7-py36_0
++defaults/win-64::pyzmq-18.1.1-py36ha925a31_0
++defaults/win-64::qt-5.9.7-vc14h73c81de_0
++defaults/win-64::send2trash-1.5.0-py36_0
++defaults/win-64::sip-4.19.8-py36h6538335_0
++defaults/win-64::terminado-0.8.3-py36_0
++defaults/win-64::tornado-6.0.4-py36he774522_1
++defaults/win-64::traitlets-4.3.3-py36_0
++defaults/win-64::webencodings-0.5.1-py36_1
++defaults/win-64::widgetsnbextension-3.5.1-py36_0
++defaults/win-64::winpty-0.4.3-4
++defaults/win-64::zeromq-4.3.1-h33f27b4_3
+# update specs: ['jupyter']
+==> 2020-06-16 23:41:44 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install pytorch torchvision cudatoolkit=10.2 -c pytorch
+# conda version: 4.8.3
++defaults/win-64::blas-1.0-mkl
++defaults/win-64::cudatoolkit-10.2.89-h74a9793_1
++defaults/win-64::freetype-2.9.1-ha9979f8_1
++defaults/win-64::icc_rt-2019.0.0-h0cc432a_1
++defaults/win-64::intel-openmp-2020.1-216
++defaults/win-64::libtiff-4.1.0-h56a325e_1
++defaults/win-64::lz4-c-1.9.2-h62dcd97_0
++defaults/win-64::mkl-2020.1-216
++defaults/win-64::mkl-service-2.3.0-py36hb782905_0
++defaults/win-64::mkl_fft-1.0.15-py36h14836fe_0
++defaults/win-64::mkl_random-1.1.1-py36h47e9c7a_0
++defaults/win-64::ninja-1.9.0-py36h74a9793_0
++defaults/win-64::numpy-1.18.1-py36h93ca92e_0
++defaults/win-64::numpy-base-1.18.1-py36hc3f5095_1
++defaults/win-64::olefile-0.46-py36_0
++defaults/win-64::pillow-7.1.2-py36hcc1f983_0
++defaults/win-64::tk-8.6.8-hfa6e2cd_0
++defaults/win-64::xz-5.2.5-h62dcd97_0
++defaults/win-64::zstd-1.4.4-ha9fde0e_3
++pytorch/win-64::pytorch-1.5.0-py3.6_cuda102_cudnn7_0
++pytorch/win-64::torchvision-0.6.0-py36_cu102
+# update specs: ['cudatoolkit=10.2', 'pytorch', 'torchvision']
+==> 2020-06-16 23:47:44 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py remove pyzmq
+# conda version: 4.8.3
+-defaults/noarch::attrs-19.3.0-py_0
+-defaults/noarch::backcall-0.2.0-py_0
+-defaults/noarch::bleach-3.1.5-py_0
+-defaults/noarch::colorama-0.4.3-py_0
+-defaults/noarch::decorator-4.4.2-py_0
+-defaults/noarch::defusedxml-0.6.0-py_0
+-defaults/noarch::importlib_metadata-1.6.1-0
+-defaults/noarch::ipywidgets-7.5.1-py_0
+-defaults/noarch::jinja2-2.11.2-py_0
+-defaults/noarch::jupyter_client-6.1.3-py_0
+-defaults/noarch::jupyter_console-6.1.0-py_0
+-defaults/noarch::nbformat-5.0.7-py_0
+-defaults/noarch::packaging-20.4-py_0
+-defaults/noarch::parso-0.7.0-py_0
+-defaults/noarch::prometheus_client-0.8.0-py_0
+-defaults/noarch::prompt-toolkit-3.0.5-py_0
+-defaults/noarch::prompt_toolkit-3.0.5-0
+-defaults/noarch::pygments-2.6.1-py_0
+-defaults/noarch::pyparsing-2.4.7-py_0
+-defaults/noarch::python-dateutil-2.8.1-py_0
+-defaults/noarch::qtconsole-4.7.4-py_0
+-defaults/noarch::qtpy-1.9.0-py_0
+-defaults/noarch::testpath-0.4.4-py_0
+-defaults/noarch::wcwidth-0.2.4-py_0
+-defaults/noarch::zipp-3.1.0-py_0
+-defaults/win-64::entrypoints-0.3-py36_0
+-defaults/win-64::icu-58.2-ha925a31_3
+-defaults/win-64::importlib-metadata-1.6.1-py36_0
+-defaults/win-64::ipykernel-5.3.0-py36h5ca1d4c_0
+-defaults/win-64::ipython-7.13.0-py36h5ca1d4c_0
+-defaults/win-64::ipython_genutils-0.2.0-py36_0
+-defaults/win-64::jedi-0.17.0-py36_0
+-defaults/win-64::jsonschema-3.2.0-py36_0
+-defaults/win-64::jupyter-1.0.0-py36_7
+-defaults/win-64::jupyter_core-4.6.3-py36_0
+-defaults/win-64::libsodium-1.0.16-h9d3ae62_0
+-defaults/win-64::m2w64-gcc-libgfortran-5.3.0-6
+-defaults/win-64::m2w64-gcc-libs-5.3.0-7
+-defaults/win-64::m2w64-gcc-libs-core-5.3.0-7
+-defaults/win-64::m2w64-gmp-6.1.0-2
+-defaults/win-64::m2w64-libwinpthread-git-5.0.0.4634.697f757-2
+-defaults/win-64::markupsafe-1.1.1-py36he774522_0
+-defaults/win-64::mistune-0.8.4-py36he774522_0
+-defaults/win-64::msys2-conda-epoch-20160418-1
+-defaults/win-64::nbconvert-5.6.1-py36_0
+-defaults/win-64::notebook-6.0.3-py36_0
+-defaults/win-64::pandoc-2.2.3.2-0
+-defaults/win-64::pandocfilters-1.4.2-py36_1
+-defaults/win-64::pickleshare-0.7.5-py36_0
+-defaults/win-64::pyqt-5.9.2-py36h6538335_2
+-defaults/win-64::pyrsistent-0.16.0-py36he774522_0
+-defaults/win-64::pywin32-227-py36he774522_1
+-defaults/win-64::pywinpty-0.5.7-py36_0
+-defaults/win-64::pyzmq-18.1.1-py36ha925a31_0
+-defaults/win-64::qt-5.9.7-vc14h73c81de_0
+-defaults/win-64::send2trash-1.5.0-py36_0
+-defaults/win-64::sip-4.19.8-py36h6538335_0
+-defaults/win-64::terminado-0.8.3-py36_0
+-defaults/win-64::tornado-6.0.4-py36he774522_1
+-defaults/win-64::traitlets-4.3.3-py36_0
+-defaults/win-64::webencodings-0.5.1-py36_1
+-defaults/win-64::widgetsnbextension-3.5.1-py36_0
+-defaults/win-64::winpty-0.4.3-4
+-defaults/win-64::zeromq-4.3.1-h33f27b4_3
+# remove specs: ['pyzmq']
+==> 2020-06-16 23:48:18 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install pyzmq
+# conda version: 4.8.3
++defaults/win-64::libsodium-1.0.16-h9d3ae62_0
++defaults/win-64::pyzmq-18.1.1-py36ha925a31_0
++defaults/win-64::zeromq-4.3.1-h33f27b4_3
+# update specs: ['pyzmq']
+==> 2020-06-16 23:51:15 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install jupyter
+# conda version: 4.8.3
++defaults/noarch::attrs-19.3.0-py_0
++defaults/noarch::backcall-0.2.0-py_0
++defaults/noarch::bleach-3.1.5-py_0
++defaults/noarch::colorama-0.4.3-py_0
++defaults/noarch::decorator-4.4.2-py_0
++defaults/noarch::defusedxml-0.6.0-py_0
++defaults/noarch::importlib_metadata-1.6.1-0
++defaults/noarch::ipywidgets-7.5.1-py_0
++defaults/noarch::jinja2-2.11.2-py_0
++defaults/noarch::jupyter_client-6.1.3-py_0
++defaults/noarch::jupyter_console-6.1.0-py_0
++defaults/noarch::nbformat-5.0.7-py_0
++defaults/noarch::packaging-20.4-py_0
++defaults/noarch::parso-0.7.0-py_0
++defaults/noarch::prometheus_client-0.8.0-py_0
++defaults/noarch::prompt-toolkit-3.0.5-py_0
++defaults/noarch::prompt_toolkit-3.0.5-0
++defaults/noarch::pygments-2.6.1-py_0
++defaults/noarch::pyparsing-2.4.7-py_0
++defaults/noarch::python-dateutil-2.8.1-py_0
++defaults/noarch::qtconsole-4.7.4-py_0
++defaults/noarch::qtpy-1.9.0-py_0
++defaults/noarch::testpath-0.4.4-py_0
++defaults/noarch::wcwidth-0.2.4-py_0
++defaults/noarch::zipp-3.1.0-py_0
++defaults/win-64::entrypoints-0.3-py36_0
++defaults/win-64::icu-58.2-ha925a31_3
++defaults/win-64::importlib-metadata-1.6.1-py36_0
++defaults/win-64::ipykernel-5.3.0-py36h5ca1d4c_0
++defaults/win-64::ipython-7.13.0-py36h5ca1d4c_0
++defaults/win-64::ipython_genutils-0.2.0-py36_0
++defaults/win-64::jedi-0.17.0-py36_0
++defaults/win-64::jsonschema-3.2.0-py36_0
++defaults/win-64::jupyter-1.0.0-py36_7
++defaults/win-64::jupyter_core-4.6.3-py36_0
++defaults/win-64::m2w64-gcc-libgfortran-5.3.0-6
++defaults/win-64::m2w64-gcc-libs-5.3.0-7
++defaults/win-64::m2w64-gcc-libs-core-5.3.0-7
++defaults/win-64::m2w64-gmp-6.1.0-2
++defaults/win-64::m2w64-libwinpthread-git-5.0.0.4634.697f757-2
++defaults/win-64::markupsafe-1.1.1-py36he774522_0
++defaults/win-64::mistune-0.8.4-py36he774522_0
++defaults/win-64::msys2-conda-epoch-20160418-1
++defaults/win-64::nbconvert-5.6.1-py36_0
++defaults/win-64::notebook-6.0.3-py36_0
++defaults/win-64::pandoc-2.2.3.2-0
++defaults/win-64::pandocfilters-1.4.2-py36_1
++defaults/win-64::pickleshare-0.7.5-py36_0
++defaults/win-64::pyqt-5.9.2-py36h6538335_2
++defaults/win-64::pyrsistent-0.16.0-py36he774522_0
++defaults/win-64::pywin32-227-py36he774522_1
++defaults/win-64::pywinpty-0.5.7-py36_0
++defaults/win-64::qt-5.9.7-vc14h73c81de_0
++defaults/win-64::send2trash-1.5.0-py36_0
++defaults/win-64::sip-4.19.8-py36h6538335_0
++defaults/win-64::terminado-0.8.3-py36_0
++defaults/win-64::tornado-6.0.4-py36he774522_1
++defaults/win-64::traitlets-4.3.3-py36_0
++defaults/win-64::webencodings-0.5.1-py36_1
++defaults/win-64::widgetsnbextension-3.5.1-py36_0
++defaults/win-64::winpty-0.4.3-4
+# update specs: ['jupyter']
+==> 2020-06-16 23:58:00 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install spacy
+# conda version: 4.8.3
++defaults/noarch::idna-2.9-py_1
++defaults/noarch::msgpack-numpy-0.4.4.3-py_0
++defaults/noarch::pycparser-2.20-py_0
++defaults/noarch::toolz-0.10.0-py_0
++defaults/noarch::tqdm-4.46.0-py_0
++defaults/noarch::urllib3-1.25.9-py_0
++defaults/win-64::brotlipy-0.7.0-py36he774522_1000
++defaults/win-64::cffi-1.14.0-py36h7a1dbc1_0
++defaults/win-64::chardet-3.0.4-py36_1003
++defaults/win-64::cryptography-2.9.2-py36h7a1dbc1_0
++defaults/win-64::cymem-1.31.2-py36he980bc4_0
++defaults/win-64::cytoolz-0.9.0.1-py36hfa6e2cd_1
++defaults/win-64::dill-0.2.9-py36_0
++defaults/win-64::msgpack-python-0.5.6-py36he980bc4_1
++defaults/win-64::murmurhash-0.28.0-py36he025d50_0
++defaults/win-64::plac-0.9.6-py36_0
++defaults/win-64::preshed-1.0.1-py36he025d50_0
++defaults/win-64::pyopenssl-19.1.0-py36_0
++defaults/win-64::pyreadline-2.1-py36_1
++defaults/win-64::pysocks-1.7.1-py36_0
++defaults/win-64::regex-2018.07.11-py36hfa6e2cd_0
++defaults/win-64::requests-2.23.0-py36_0
++defaults/win-64::spacy-2.0.12-py36h8300f20_0
++defaults/win-64::termcolor-1.1.0-py36_1
++defaults/win-64::thinc-6.10.3-py36h8300f20_0
++defaults/win-64::ujson-2.0.3-py36ha925a31_0
++defaults/win-64::win_inet_pton-1.1.0-py36_0
++defaults/win-64::wrapt-1.10.11-py36hfa6e2cd_2
+# update specs: ['spacy']
+==> 2020-06-17 00:00:16 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py remove spacy
+# conda version: 4.8.3
+-defaults/noarch::idna-2.9-py_1
+-defaults/noarch::msgpack-numpy-0.4.4.3-py_0
+-defaults/noarch::pycparser-2.20-py_0
+-defaults/noarch::toolz-0.10.0-py_0
+-defaults/noarch::tqdm-4.46.0-py_0
+-defaults/noarch::urllib3-1.25.9-py_0
+-defaults/win-64::brotlipy-0.7.0-py36he774522_1000
+-defaults/win-64::cffi-1.14.0-py36h7a1dbc1_0
+-defaults/win-64::chardet-3.0.4-py36_1003
+-defaults/win-64::cryptography-2.9.2-py36h7a1dbc1_0
+-defaults/win-64::cymem-1.31.2-py36he980bc4_0
+-defaults/win-64::cytoolz-0.9.0.1-py36hfa6e2cd_1
+-defaults/win-64::dill-0.2.9-py36_0
+-defaults/win-64::msgpack-python-0.5.6-py36he980bc4_1
+-defaults/win-64::murmurhash-0.28.0-py36he025d50_0
+-defaults/win-64::plac-0.9.6-py36_0
+-defaults/win-64::preshed-1.0.1-py36he025d50_0
+-defaults/win-64::pyopenssl-19.1.0-py36_0
+-defaults/win-64::pyreadline-2.1-py36_1
+-defaults/win-64::pysocks-1.7.1-py36_0
+-defaults/win-64::regex-2018.07.11-py36hfa6e2cd_0
+-defaults/win-64::requests-2.23.0-py36_0
+-defaults/win-64::spacy-2.0.12-py36h8300f20_0
+-defaults/win-64::termcolor-1.1.0-py36_1
+-defaults/win-64::thinc-6.10.3-py36h8300f20_0
+-defaults/win-64::ujson-2.0.3-py36ha925a31_0
+-defaults/win-64::win_inet_pton-1.1.0-py36_0
+-defaults/win-64::wrapt-1.10.11-py36hfa6e2cd_2
+# remove specs: ['spacy']
+==> 2020-06-17 00:08:44 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install pandas
+# conda version: 4.8.3
++defaults/noarch::pytz-2020.1-py_0
++defaults/win-64::pandas-1.0.4-py36h47e9c7a_0
+# update specs: ['pandas']
+==> 2020-06-18 00:03:57 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install matplotlib
+# conda version: 4.8.3
++defaults/win-64::cycler-0.10.0-py36h009560c_0
++defaults/win-64::kiwisolver-1.2.0-py36h74a9793_0
++defaults/win-64::matplotlib-3.2.1-0
++defaults/win-64::matplotlib-base-3.2.1-py36h64f37c6_0
+# update specs: ['matplotlib']
+==> 2020-07-05 17:15:36 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install plotly
+# conda version: 4.8.3
+-defaults/win-64::ca-certificates-2020.1.1-0
+-defaults/win-64::certifi-2020.4.5.2-py36_0
++defaults/noarch::plotly-4.8.2-py_0
++defaults/win-64::ca-certificates-2020.6.24-0
++defaults/win-64::certifi-2020.6.20-py36_0
++defaults/win-64::retrying-1.3.3-py36_2
+# update specs: ['plotly']

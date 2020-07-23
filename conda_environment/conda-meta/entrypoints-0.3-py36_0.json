@@ -1,0 +1,61 @@
+{
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\gUnit\\.conda\\pkgs\\entrypoints-0.3-py36_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/entrypoints.cpython-36.pyc",
+    "Lib/site-packages/entrypoints-0.3-py3.6.egg-info",
+    "Lib/site-packages/entrypoints.py"
+  ],
+  "fn": "entrypoints-0.3-py36_0.conda",
+  "legacy_bz2_md5": "032c3c66f46872e1e01f8575d0cec8e3",
+  "license": "MIT License",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\gUnit\\.conda\\pkgs\\entrypoints-0.3-py36_0",
+    "type": 1
+  },
+  "md5": "0c4faaf1c0107a66a3028a9f5aca6ce4",
+  "name": "entrypoints",
+  "package_tarball_full_path": "C:\\Users\\gUnit\\.conda\\pkgs\\entrypoints-0.3-py36_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/entrypoints.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "4c4aeae07b4381c8ad8abd3c84a2b3c4254b6a5fdfe82831016126468346339c",
+        "sha256_in_prefix": "4c4aeae07b4381c8ad8abd3c84a2b3c4254b6a5fdfe82831016126468346339c",
+        "size_in_bytes": 7088
+      },
+      {
+        "_path": "Lib/site-packages/entrypoints-0.3-py3.6.egg-info",
+        "path_type": "hardlink",
+        "sha256": "256aa4d2dfb6ac3a7e4051bed2a740cc322918c5fd0da760abc909e83718fb67",
+        "sha256_in_prefix": "256aa4d2dfb6ac3a7e4051bed2a740cc322918c5fd0da760abc909e83718fb67",
+        "size_in_bytes": 294
+      },
+      {
+        "_path": "Lib/site-packages/entrypoints.py",
+        "path_type": "hardlink",
+        "sha256": "68a5307fc9444bce2f15b1bf04a97bd233c20ffdd7d8277205e5e546503be1f0",
+        "sha256_in_prefix": "68a5307fc9444bce2f15b1bf04a97bd233c20ffdd7d8277205e5e546503be1f0",
+        "size_in_bytes": 8262
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "e10f1dd4a37e0b704f0c6a26663ece965bbb5f2a523226cb773a1294d622e483",
+  "size": 12174,
+  "subdir": "win-64",
+  "timestamp": 1547905218658,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/entrypoints-0.3-py36_0.conda",
+  "version": "0.3"
+}
