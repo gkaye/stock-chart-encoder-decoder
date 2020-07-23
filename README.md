@@ -5,4 +5,6 @@ Demonstration of compressing stock market data using unsupervised learning.  Thi
 
 ![Input](/example_input_1.PNG)
 
+
+
 ![Input](/example_output_1.PNG)
